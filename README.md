@@ -12,5 +12,3 @@
 
 <h3 align="left">Some stats:</h3>
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Meriem-DAHMANI&show_icons=true&theme=transparent)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Meriem-DAHMANI)](https://github.com/Meriem-DAHMANI/github-readme-stats)
