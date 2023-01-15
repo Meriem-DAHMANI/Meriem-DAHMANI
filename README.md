@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meriem-dahmani&show_icons=true&locale=en" alt="meriem-dahmani" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriem-DAHMANI&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Meriem-DAHMANI&show_icons=true&theme=radical)
