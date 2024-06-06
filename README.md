@@ -6,9 +6,8 @@
 ```python
 Meriem = {
    "areasOfInterest": ["Artificial Intelligence", "Computer vision", "Natural Language Processing",  "Open Source", "LLMs"],
-   "codingSkills": ["Python", "Java", "C", "JavaScript"],
+   "codingSkills": ["Python", "C", "C++", "R", "JavaScript", "Java"],
    "toolbox": {
-     "Programmation": ["C", "C++", "C#", "Python", "R", "JavaScript", "Java"], 
      "Deep Learning": ["Tensorflow", "PyTorch", "Keras", "Scikit-Learn"],
      "Computer Vision": ["OpenCV", "YOLO", "Pillow"],
      "Data Analysis and Visualization": ["Pandas", "NumPy", "Matplotlib", "SciPy"], 
