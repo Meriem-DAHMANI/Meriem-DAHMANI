@@ -13,9 +13,11 @@
 
 <h3 align="left">Some stats:</h3>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meriem-DAHMANI&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriem-DAHMANI&layout=compact&theme=tokyonight)](https://github.com/said-racha/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meriem-DAHMANI&theme=dark)](https://git.io/streak-stats)
+
 
 
 
